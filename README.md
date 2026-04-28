@@ -47,7 +47,25 @@
 ---
 
 ## 📸 Screenshots
-(Add screenshots here for better presentation)
+
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 🔐 Login Page
+![Login](donor_login.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](admin_dashboard.png)
+
+### 🩸 Donor List
+![Donor List](donorlist.png)
+
+### 👤 Donor Profile
+![Donor Profile](donorprofile.png)
+
+### ⚙️ Admin Panel
+![Admin](admin.png)
 
 ---
 
